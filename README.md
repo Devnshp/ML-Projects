@@ -13,7 +13,6 @@ ML Projects/
 ├── Credit Card Fraud Detection.ipynb
 ├── Iris Flower Classification.ipynb
 ├── Sales Prediction.ipynb
-├── Task1.ipynb
 ```
 
 ---
